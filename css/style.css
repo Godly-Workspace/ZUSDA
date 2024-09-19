@@ -158,6 +158,14 @@
     z-index: 1;
 }
 
+
+.caro-text{
+    background: linear-gradient(rgba(31, 31, 31, 0.637), rgba(44, 44, 44, 0.788));
+    background-size: cover;
+}
+
+
+
 .carousel-control-prev,
 .carousel-control-next {
     width: 15%;
@@ -243,7 +251,7 @@
 }
 
 .container.facts .facts-text {
-    background: linear-gradient(rgba(1, 95, 201, .9), rgba(1, 95, 201, .9)), url(../img/carousel-1.jpg) center right no-repeat;
+    background: linear-gradient(rgba(1, 94, 201, 0.562), rgba(1, 94, 201, 0.521)), url(../img/carousel-1.jpg) center right no-repeat;
     background-size: cover;
 }
 
